@@ -1,0 +1,11 @@
+RSA_KEY_DIR_NAME=vault
+RSA_PRIVATE_KEY_FILE_NAME=jwt_key.pem
+RSA_PUBLIC_KEY_FILE_NAME=jwt_key.pub
+
+DB_NAME=mydatabase
+DB_USER=myuser
+DB_PASSWORD=mypassword
+DB_HOST=db
+DB_PORT=5432
+
+SECRET_KEY=django-insecure-@zw$ydg=#v6(06h2(f4!0(@svy=u72cyv*p*or1n1um=uv8f$=
